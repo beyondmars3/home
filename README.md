@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## HardCandy-Jekyll
 
 
@@ -366,3 +367,7 @@ HardCandy-Jekyll is licensed under [MIT](https://github.com/xukimseven/HardCand
 ### 求Star 求关注
 
 看到这里，如果你喜欢我的小项目，欢迎下载使用他，也请你为我点个小星星 😜 ，多谢。
+=======
+# home
+jekyll 
+>>>>>>> 8c7ad5d5ab192d16fbfc6ced7f94e9f8c881cba6
