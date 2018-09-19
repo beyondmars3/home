@@ -19,7 +19,8 @@
                     <a href={{ "tags.html#" | append: tag | pretend: site.baseurl }} class="post-tag">{{ tag }}</a>
                     {% endfor %}
                 {% endif %}
-                <time class="post-date" datetime="{{ post.date | date:"%y-%m-%d" }}">{{ post.date | date_to_string }}</time>
+                <!--<time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date_to_string }}</time>-->
+                <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
           </footer>
       </li>
   </a>
